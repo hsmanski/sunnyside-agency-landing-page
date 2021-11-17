@@ -483,14 +483,14 @@ html {
 }
 
 .footer-logo {
-  padding-bottom: 40px;
+  transform: scaleX(1.371) scaleY(1.375);
   filter: brightness(0) saturate(100%) invert(37%) sepia(59%) saturate(410%)
     hue-rotate(118deg) brightness(92%) contrast(88%);
   cursor: pointer;
 }
 
 .footer-links-container {
-  padding-bottom: 88px;
+  padding: 40px 0 88px 0;
 }
 
 .footer-link {
