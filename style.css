@@ -388,7 +388,7 @@ html {
 .testimonial-container {
   display: flex;
   justify-content: space-evenly;
-  margin: 81px 165px 160px 165px;
+  margin: 81px 165px 159px 165px;
 }
 
 .testimonial {
@@ -403,7 +403,7 @@ html {
   width: 72px;
   height: 72px;
   border-radius: 50%;
-  margin-bottom: 57px;
+  margin-bottom: 55px;
 }
 
 .testimonial-text {
@@ -477,9 +477,17 @@ html {
 
 /* Section 5 Footer Styles */
 .section-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-align: center;
   background-color: #90d4c6;
   padding: 72px 0;
+}
+
+.footer-logo-wrapper {
+  width: 170px;
+  height: 33px;
 }
 
 .footer-logo {
