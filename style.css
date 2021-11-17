@@ -205,7 +205,7 @@ html {
 }
 
 .arrow-container {
-  margin-top: 96.54px;
+  margin-top: 96px;
   display: flex;
   justify-content: center;
 }
@@ -486,6 +486,7 @@ html {
 }
 
 .footer-logo-wrapper {
+  padding-top: 5px;
   width: 170px;
   height: 33px;
 }
